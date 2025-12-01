@@ -1,16 +1,69 @@
-## Hi there 👋
+## Gabriela
 
-<!--
-**paluchGabriela/paluchGabriela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante de Engenharia de Software (UP) `**
 
-Here are some ideas to get you started:
+Me chamo Gabriela Paluch da Rocha, tenho 18 anos, sou de Curitiba/PR e estudo Engenharia de Software na Universidade Positivo. Estou aprendendo desenvolvimento web e iniciando minha trajetória na área de tecnologia. Atualmente, **montando meu portfólio** e **buscando oportunidades de estágio** ou programas de iniciação prática para adquirir experiência e evoluir como desenvolvedora. 
+Se quiser falar comigo, basta acessar meu **[contato](mailto:paluchrocha.gabriela@gmail.com)**.  
+Também estou no **[LinkedIn](https://www.linkedin.com/in/gabriela-paluch-2b6944351)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> 
+    <a href="https://github.com/paluchGabriela?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/paluchGabriela?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/paluchGabriela?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/paluchGabriela?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias que já tive contato
+- HTML  
+- CSS  
+- JavaScript  
+- C  
+- SQL  
+
+*(Ainda em aprendizado — sempre evoluindo!)*
+
+### 📁 Sobre meus projetos
+Aqui no meu GitHub você vai encontrar principalmente **projetos acadêmicos**, feitos para treinar lógica, fundamentos de programação e desenvolvimento web.  
+Conforme eu avançar na faculdade e no portfólio, mais projetos serão adicionados.
+
+---
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=paluchGabriela&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=paluchGabriela&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
+---
+
+### 🌱 Próximos passos
+- Continuar estudando  
+- Criar novos projetos para o portfólio  
+- Buscar estágio ou programas de iniciação prática  
+

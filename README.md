@@ -25,42 +25,11 @@ Também estou no **[LinkedIn](https://www.linkedin.com/in/gabriela-paluch-2b6944
 
 ---
 
-### 🤖 Linguagens e Tecnologias que já tive contato
-- HTML  
-- CSS  
-- JavaScript  
-- C  
-- SQL  
-
 *(Ainda em aprendizado — sempre evoluindo!)*
 
 ### 📁 Sobre meus projetos
 Aqui no meu GitHub você vai encontrar principalmente **projetos acadêmicos**, feitos para treinar lógica, fundamentos de programação e desenvolvimento web.  
 Conforme eu avançar na faculdade e no portfólio, mais projetos serão adicionados.
-
----
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=paluchGabriela&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=paluchGabriela&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
----
 
 ### 🌱 Próximos passos
 - Continuar estudando  
